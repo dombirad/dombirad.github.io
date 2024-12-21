@@ -2,6 +2,6 @@
 <html>
     <body>
         <h1 style="text-align: center ;font: 1em sans-serif;">WELCOME!</h1>
-        <button download="mate.exe">NOT VIRUUS</button>
+        <a href="mate.exe" download>
     </body>
 </html>
